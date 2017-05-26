@@ -2,5 +2,5 @@
 <p>A program that allows you to bypass the security on school Windows computers.<p>
 
 <h4>Edit:</h4>
-<p>Windows Defender is now detecting xPloit V4.exe as a Trojan virus.<br>
+<p>Windows Defender is now detecting <code>xPloit V4.exe</code> as a Trojan virus.<br>
 If anybody knows how to solve this issue, please help.</p>
